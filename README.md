@@ -25,6 +25,3 @@ Antes de iniciar, asegúrate de tener instalado:
 - Servidor web (Apache / Nginx) o Laravel Sail
 - Base de datos MySQL o PostgreSQL
 - Git
-
-git clone https://github.com/usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
