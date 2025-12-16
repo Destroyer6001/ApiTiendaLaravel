@@ -1,6 +1,6 @@
-# 📦 API REST – Laravel 10
+# 📦 API REST – Tienda Online
 
-API REST desarrollada con **Laravel 10** y **PHP 8**, diseñada para gestionar recursos de forma segura, escalable y siguiendo buenas prácticas de desarrollo backend.
+API REST para una **tienda online** desarrollada con **Laravel 10** y **PHP 8**, que gestiona productos, usuarios, pedidos y pagos de manera segura y eficiente.
 
 ---
 
@@ -12,6 +12,7 @@ API REST desarrollada con **Laravel 10** y **PHP 8**, diseñada para gestionar r
 - **Eloquent ORM**
 - **Composer**
 - **JWT / Sanctum** (según implementación)
+- **Stripe / PayPal** (para pagos, opcional)
 - **Postman** (para pruebas de endpoints)
 
 ---
